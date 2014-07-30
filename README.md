@@ -14,3 +14,8 @@ This is a Sokoban game with a 007 theme.
 - Awesome 007 song remix
 - Did I mentioned shooting with james bond?
 - James bond
+
+Gameplay
+
+https://www.youtube.com/watch?v=TWiv2IpEisM
+[![Gameplay](http://img.youtube.com/vi/TWiv2IpEisM/0.jpg)](http://www.youtube.com/watch?v=TWiv2IpEisM)
